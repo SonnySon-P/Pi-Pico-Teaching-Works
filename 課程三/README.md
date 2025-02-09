@@ -1,15 +1,20 @@
-# MIPS Assembly Language - HomeWorks of Computer Organization and Architecture
+# 課程三
 
-**作品名稱：** MIPS指令集的練習
+**教學主題：** 製作驅動程式
+	
+**目的：** 學習驅動程式的概念，來控制元件。
 
-**動機：** 該作品為本人在修讀計算機組織與結構課程時的作業。在修讀過程中，教授為了讓我們更加了解MIPS指令集的格式(機械語言呈現方式)，與組合語言的運作方式，以利了解CPU數位電路設計核心想法，故特別給予以下幾題的練習。
+**操作解說：** 這門課程主要包含三個學習重點，分別如下：(需要事先下載與安裝Servo.h函式庫)
+1. Read Keypad.py：主要學習定義readKeypad函數，作為Keypad驅動程式。線路配置如下圖所示：
+<br>
+<div align="center">
+	<img src="./Wokwi截圖1.png" alt="Editor" width="500">
+</div>
+<br>
 
-**使用指令集：** MIPS
-
-**開發IDE：** Mars4_5.jar
-
-**題目解說：** 題目主要有四題，分別如下：
-1. W1.asm：題目為輸入一數列，回傳第二大與第二小數值。
-3. W2.asm：題目為輸入除數與被除數，回傳計算後的商值。
-4. W3.asm：題目為輸入一數值，回傳該數值的reversal。
-5. W4.asm：題目為計算乘冪。
+2. Get Distance.py：主要學習定義getDistance函數，作為HC-SR04驅動程式。以下為對應的線路配置圖：(HC-SR04的物理概念，請參照[台南市教育局科技教育網](https://maker.tn.edu.tw/modules/tad_book3/page.php?tbdsn=201))
+<br>
+<div align="center">
+	<img src="./Wokwi截圖2.png" alt="Editor" width="500">
+</div>
+<br>
