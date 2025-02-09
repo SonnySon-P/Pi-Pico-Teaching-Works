@@ -1,7 +1,7 @@
 from machine import Pin
 import time
 
-# 設定兩個燈泡的GPIO引腳，使用GPIO 14和GPIO 15
+# 設定兩個燈泡的GPIO引腳，使用GPIO 5和GPIO 9
 bulb1 = Pin(5, Pin.OUT)
 bulb2 = Pin(9, Pin.OUT)
 
