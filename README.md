@@ -1,6 +1,6 @@
 # Raspberry Pi Pico的教學資源
 
-**動機說明：** 本次教學內容將延續「Arduino的教學資源」的學習主題，並進一步探索 Raspberry Pi Pico 的應用與操作。在先前的教學中，我們介紹了市面上常見的各種元件，而本次將專注於學習如何使用另一種開發環境，以及深入理解GPIO引腳的運用。雖然 Raspberry Pi Pico是一款價格實惠且功能強大的開發板，並且在效能上超越了Arduino UNO。但我之所以選擇它，主要是看中其作為進入Raspberry Pi與Jetson Nano生態系統的重要契機。當面對效能需求較高的實際應用時，Raspberry Pi Pico將是一個極具潛力的工具，無論是在開發或是實現創新應用方面，都能展現出強大的優勢。
+**動機說明：** 本次教學內容將延續「Arduino的教學資源」的學習主題，並進一步探索 Raspberry Pi Pico 的應用與操作。在先前的教學中，我們介紹了市面上常見的各種元件，而本次將專注於學習如何使用另一種開發環境，以及深入理解GPIO引腳的運用。雖然 Raspberry Pi Pico是一款價格實惠且功能強大的開發板，並且在效能上超越了Arduino UNO。但我之所以選擇它，主要是看中其作為進入Raspberry Pi與Jetson Nano、Jetson Nano生態系統的重要契機。當面對效能需求較高的實際應用時，Raspberry Pi Pico將是一個極具潛力的工具，無論是在開發或是實現創新應用方面，都能展現出強大的優勢。
 
 **適用開發板：** Raspberry Pi Pico(或Raspberry Pi也可適用)
 
